@@ -1,0 +1,17 @@
+export const models = {
+    auth: 'auth',
+    dictionaryCode: 'dictionaryCode',
+    workflow: 'workflow',
+    auditLog: 'auditLog',
+    department: 'department',
+    user: 'user',
+    brand: 'brand',
+    brandModel: 'brandModel',
+    customer: 'customer',
+    equipmentModel: 'equipmentModel',
+    equipment: 'equipment',
+    computerRoom: 'computerRoom',
+    task: 'task',
+    patrolExcel: 'patrolExcel',
+    maintenanceLevel: 'maintenanceLevel',
+};
